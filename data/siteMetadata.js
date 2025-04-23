@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'TuanCD',
   author: 'TuanCD',
-  headerTitle: 'TuanCDBlog',
+  headerTitle: 'TuanCD Blog',
   description: 'A blog created by TuanCD',
   language: 'vi-VN',
   theme: 'system', // system, dark or light
